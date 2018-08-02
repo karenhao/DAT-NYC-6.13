@@ -2,4 +2,5 @@
 DOHMH_New_York_City_Restaurant_Inspection_Results.csv
 .ipynb_checkpoints
 Icon
-twitter_credentials
+twitter_credentials.py
+quandl_credentials.py
